@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        String[] skillRatings = {"beginner", "exceptional", "great", "advance", "expert"};
+        String[] skillRatings = {"n/a","beginner", "exceptional", "great", "advance", "expert"};
         String input;
         int i;
         Ratings myRating = new Ratings();
